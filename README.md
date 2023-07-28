@@ -30,7 +30,9 @@ remotes::install_github("jonthegeek/mockplumber")
 
 ## Usage
 
-Add usage information and examples here.
+This is the beginning of an idea for a package. You will use it with
+something like
+mockplumber::mock(“<https://api.apis.guru/v2/openapi.yaml>”).
 
 ## Code of Conduct
 
